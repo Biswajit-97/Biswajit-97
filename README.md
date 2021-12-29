@@ -10,7 +10,7 @@ I design and build quality responsive websites, clean user interfaces and rich i
 
 - ⚛️ Specialize in => React, React Native and Node Js.
 - 💡 I’m currently learning => GraphQL, Nextjs, Typescript.
-- ✅ I’m looking to collaborate on => Web development.
+- ✅ I’m looking for Job on => Web development / Frontend Development.
 - 📟 I’m looking for help with => MERN Stack.
 - 💬 Ask me about => Frontend Web development.
 - 🎯 2022 Goals: Creck a Dev Job.
