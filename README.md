@@ -1,8 +1,9 @@
 ### Hi there 👋
 
 ```
+
 I'm Biswajit, a self taught frontend developer.
-I design and build quality responsive websites, clean user interfaces and rich interactive web apps.
+
 ```
 
 
